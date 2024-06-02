@@ -89,4 +89,8 @@ section{
 #featured img{
     width: 200px;
     height: 300px;
+    transition: 0.6s;
+}
+#featured img:hover{
+    transform: translateY(-8);
 }
